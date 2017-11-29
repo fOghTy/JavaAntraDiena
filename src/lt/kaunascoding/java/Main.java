@@ -34,7 +34,10 @@ public class Main {
                     Uzduotis02 antroji = new Uzduotis02();
                 case CHOISE_3:
                     Uzduotis03 trecioji = new Uzduotis03();
-
+                case CHOISE_4:
+                    Uzduotis04 ketvirtoji = new Uzduotis04();
+                case CHOISE_5:
+                    Uzduotis05 penktoji = new Uzduotis05();
                     break;
             }
         }
