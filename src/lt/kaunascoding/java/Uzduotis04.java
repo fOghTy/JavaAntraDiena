@@ -13,8 +13,12 @@ public class Uzduotis04 {
         int skirtuamas = a - b;
 
     public static int suma(int a, int b) {
-        System.out.println("Suma: " + suma) {
+        System.out.println("Suma: " + suma);
+        {
             return a + b;
+        }}
+        public static int skirtumas(int a, int b){
+        System.out.println("Skirtumas: " + skirtumas);
         }
     }
 }
